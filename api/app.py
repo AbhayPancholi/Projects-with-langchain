@@ -13,7 +13,7 @@ app = FastAPI(
     title="Langchain Server", version="1.0", description="A simple API server"
 )
 
-add_routes(app, ChatOllama(model="phi"), path="/openai")
+add_routes(app, ChatOllama(model="phi"), path="/ollama")
 
 llm1 = OllamaLLM(model="phi")
 llm2 = OllamaLLM(model="phi")
