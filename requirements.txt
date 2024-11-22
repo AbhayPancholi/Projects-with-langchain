@@ -10,3 +10,4 @@ sse_starlette
 ipykernel
 bs4
 pypdf
+chromadb
