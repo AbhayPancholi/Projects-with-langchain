@@ -11,3 +11,4 @@ ipykernel
 bs4
 pypdf
 chromadb
+arxiv
