@@ -13,3 +13,4 @@ pypdf
 chromadb
 arxiv
 wikipedia
+langchain_groq
