@@ -30,7 +30,7 @@ if "vector" not in st.session_state:
         st.session_state.final_docs, st.session_state.embeddings
     )
 
-st.title("Chat wiht groq")
+st.title("Chat with groq")
 
 llm = ChatGroq(model="mixtral-8x7b-32768")
 
@@ -55,7 +55,7 @@ input = st.text_input("Ask something related to langsmith")
 if input:
     start = time.process_time()
     response = retriever_chain.invoke({"input": input})
-    print("Response time: ", start - time.process_time())
+    print("Response time: ", time.process_time() - start)
     st.write(response["answer"])
 
     # With a streamlit expander
