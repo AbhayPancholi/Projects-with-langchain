@@ -30,7 +30,7 @@ if "vector" not in st.session_state:
         st.session_state.final_docs, st.session_state.embeddings
     )
 
-st.title("Chat with groq")
+st.title("Chat with groq's mistral")
 
 llm = ChatGroq(model="mixtral-8x7b-32768")
 
