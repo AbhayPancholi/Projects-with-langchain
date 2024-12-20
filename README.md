@@ -35,7 +35,7 @@ Here’s an overview of the projects and files in this repository:
 - **Recent Updates:** Added `.env` file to `.gitignore`.
 
 ### 📄 requirements.txt
-- **Description:** Dependencies required for running the projects.
+- **Description:** Dependencies are required to run the projects.
 - **Recent Updates:** Updated to reflect the latest project requirements.
 
 ### 📄 README.md
