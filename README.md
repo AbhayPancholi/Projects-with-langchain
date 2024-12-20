@@ -11,7 +11,7 @@ Here’s an overview of the projects and files in this repository:
 - **Status:** Investigating the error: `ResponseError: phi does not support tools`.
 
 ### 📁 ChatModel_using_groq
-- **Description:** Implementation and updates for ChatModel using the Groq architecture.
+- **Description:** Implementation and updates for ChatModel using the Groq's API.
 - **Recent Updates:** Added updates in the comments for better clarity.
 
 ### 📁 Chatbot
