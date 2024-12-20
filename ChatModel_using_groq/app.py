@@ -37,7 +37,7 @@ llm = ChatGroq(model="mixtral-8x7b-32768")
 prompt = ChatPromptTemplate.from_template(
     """
 Answer the questions based on the provided context only.
-Please provide the most accurate response based on the question
+Please provide the most accurate response based on the question:
 <context>
 {context}
 <context>
