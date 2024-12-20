@@ -16,7 +16,7 @@ Here’s an overview of the projects and files in this repository:
 
 ### 📁 Chatbot
 - **Description:** A chatbot implementation leveraging LangChain’s `langchain-ollama` package.
-- **Recent Updates:** Updated the `langchain-ollama` package for improved functionality.
+- **Recent Updates:** Updated the code comments and titles.
 
 ### 📁 Retriever & Chains
 - **Description:** Demonstrates retrieval-based workflows and chains for advanced query handling.
