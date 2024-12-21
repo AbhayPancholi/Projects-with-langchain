@@ -1,6 +1,6 @@
 # LangChain Projects Repository
 
-Welcome to the **LangChain Projects Repository**! This repository contains a collection of projects and experiments utilizing [LangChain](https://langchain-langchain.vercel.app/), a powerful framework for building LLM (Large Language Model) applications. Explore how LangChain's tools and capabilities are applied in various contexts, from chatbot development to retrieval-augmented generation (RAG).
+Welcome to the **LangChain Projects Repository**! This repository contains a collection of projects and experiments utilizing [LangChain](https://langchain-langchain.vercel.app/), a powerful framework for building LLM (Large Language Model) applications. Explore how LangChain's tools and capabilities are applied in various contexts from chatbot development to retrieval-augmented generation (RAG).
 
 ## Repository Structure
 
